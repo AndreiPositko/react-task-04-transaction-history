@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-task-04-transaction-history/static/css/main.aaa5f6b3.chunk.css",
+    "main.js": "/react-task-04-transaction-history/static/js/main.de45a600.chunk.js",
+    "main.js.map": "/react-task-04-transaction-history/static/js/main.de45a600.chunk.js.map",
+    "runtime-main.js": "/react-task-04-transaction-history/static/js/runtime-main.d3651ad3.js",
+    "runtime-main.js.map": "/react-task-04-transaction-history/static/js/runtime-main.d3651ad3.js.map",
+    "static/js/2.46089f15.chunk.js": "/react-task-04-transaction-history/static/js/2.46089f15.chunk.js",
+    "static/js/2.46089f15.chunk.js.map": "/react-task-04-transaction-history/static/js/2.46089f15.chunk.js.map",
+    "index.html": "/react-task-04-transaction-history/index.html",
+    "static/css/main.aaa5f6b3.chunk.css.map": "/react-task-04-transaction-history/static/css/main.aaa5f6b3.chunk.css.map",
+    "static/js/2.46089f15.chunk.js.LICENSE.txt": "/react-task-04-transaction-history/static/js/2.46089f15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3651ad3.js",
+    "static/js/2.46089f15.chunk.js",
+    "static/css/main.aaa5f6b3.chunk.css",
+    "static/js/main.de45a600.chunk.js"
+  ]
+}
