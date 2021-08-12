@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 import TransactionItem from '../TransactionItem';
 
@@ -17,13 +18,16 @@ const TransactionHistory = ({ transactions }) => {
                 </thead>
                 <tbody>
                      {transactions.map(item => (
-                        <TransactionItem key={ item.id } {...item}/>
+                         <TransactionItem key={item.id} {...item} />
                     ))}
                 </tbody>
             </table>
-           
         </div>
     )
+}
+
+TransactionHistory.propTypes = {
+    transactions: PropTypes.array.isRequired,
 }
 
 export default TransactionHistory;
